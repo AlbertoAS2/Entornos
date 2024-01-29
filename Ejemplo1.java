@@ -1,6 +1,8 @@
 public class Ejemplo1{
     public static void main(String[]args ){
 
-    System.out.println("Hola munod");
+    System.out.println("Hola mundo");
+    String nombre = "Alberto";
+    System.out.println("Mi nombre es " + nombre);
     }
 }
